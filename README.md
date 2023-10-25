@@ -1,1 +1,1 @@
-<img alt="Photo of a jellyfish made with GenVista" src="https://github.com/Neuramare/neuramare/blob/735d97df304c1f97b80f5e2f1d992116532cbd4e/jellyfish-undersea.png?raw=true" width="100%">
+<img alt="Photo of a jellyfish made with GenVista" src="https://github.com/Neuramare/neuramare/blob/545488cab2115040d9a1dbf36c1525b174367b6c/jellyfish-fluo-small.gif?raw=true" width="100%">
