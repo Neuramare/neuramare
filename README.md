@@ -1,1 +1,10 @@
-<img alt="Photo of a jellyfish made with GenVista" src="https://github.com/Neuramare/neuramare/blob/9210a193509ed049bf58d6d8adb1fb32effa1186/jellyfish-fluo-medium.gif?raw=true" width="20%">
+# Welcome to Neuramare's GitHub 🌌
+
+## 🤖 About Neuramare
+At Neuramare, we are dedicated to advancing the frontiers of artificial intelligence. Our mission is to harness the power of AI to unlock new possibilities and drive innovation.
+
+## 🌐 Connect with Us
+- **Website**: [Neuramare](https://www.neuramare.com)
+
+## 📊 Stats
+![Neuramare's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neuramare&show_icons=true)
