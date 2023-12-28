@@ -5,6 +5,3 @@ At Neuramare, we are dedicated to advancing the frontiers of artificial intellig
 
 ## 🌐 Connect with Us
 - **Website**: [Neuramare](https://www.neuramare.com)
-
-## 📊 Stats
-![Neuramare's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neuramare&show_icons=true)
